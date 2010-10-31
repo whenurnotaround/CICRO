@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/1672/iTouch/mgtwitterengine/trunk/OAuthConsumer/Crytpo
+END
+Base64Transcoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/1672/iTouch/mgtwitterengine/trunk/OAuthConsumer/Crytpo/Base64Transcoder.h
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/1672/iTouch/mgtwitterengine/trunk/OAuthConsumer/Crytpo/sha1.h
+END
+hmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/1672/iTouch/mgtwitterengine/trunk/OAuthConsumer/Crytpo/hmac.c
+END
+Base64Transcoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/1672/iTouch/mgtwitterengine/trunk/OAuthConsumer/Crytpo/Base64Transcoder.c
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/1672/iTouch/mgtwitterengine/trunk/OAuthConsumer/Crytpo/sha1.c
+END
+hmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/1672/iTouch/mgtwitterengine/trunk/OAuthConsumer/Crytpo/hmac.h
+END
