@@ -1,7 +1,7 @@
 TCICRO
 v7
 r0
-t310223985.605455
+t310274628.975035
 cCheck dependencies
 cProcessInfoPlistFile /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app/Info.plist CICRO-Info.plist
 cCompileXIB /Users/whenurnotaround/Documents/WorkSpace/CICRO/MainWindow.xib
@@ -984,9 +984,9 @@ s354
 i<UIKit/UIKit.h>
 
 N/Users/whenurnotaround/Documents/WorkSpace/CICRO/CICROViewController.xib
-c000000004CCD6C35000000000000E321
-t1288530997
-s58145
+c000000004CCE317F000000000000EB64
+t1288581503
+s60260
 
 N/Users/whenurnotaround/Documents/WorkSpace/CICRO/CICRO_Prefix.pch
 c000000004CBC094900000000000000B3
@@ -1036,16 +1036,16 @@ i"CICROAppDelegate.h"
 i"CICROViewController.h"
 
 N/Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/CICROViewController.h
-c000000004CCD4A6B00000000000004AB
-t1288522347
-s1195
+c000000004CCE321900000000000004FC
+t1288581657
+s1276
 i<UIKit/UIKit.h>
 i"MGTwitterEngine.h"
 
 N/Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/CICROViewController.m
-c000000004CCD6C060000000000001E31
-t1288530950
-s7729
+c000000004CCE32C10000000000001F93
+t1288581825
+s8083
 i"CICROViewController.h"
 i"ViewHelpers.h"
 i"Bubble.h"
@@ -1055,16 +1055,16 @@ i"TweetsGround.h"
 i"Login.h"
 
 N/Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/InputTweetView.h
-c000000004CCC7C260000000000000201
-t1288469542
-s513
+c000000004CCE2D81000000000000026A
+t1288580481
+s618
 i<UIKit/UIKit.h>
 i<QuartzCore/QuartzCore.h>
 
 N/Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/InputTweetView.m
-c000000004CCC7C5300000000000004EF
-t1288469587
-s1263
+c000000004CCE2A3A0000000000000502
+t1288579642
+s1282
 i"InputTweetView.h"
 
 N/Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/Login.h
@@ -1715,16 +1715,16 @@ t1288531133
 s6043
 
 N/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/CICROAppDelegate.o
-t1288531135
-s46068
+t1288581658
+s46088
 
 N/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/CICROViewController.o
-t1288531135
-s69588
+t1288581825
+s72056
 
 N/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/InputTweetView.o
-t1288531137
-s25640
+t1288580482
+s26824
 
 N/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/Login.o
 t1288531138
@@ -1859,8 +1859,8 @@ t1288450379
 s42332
 
 N/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/Tweet.o
-t1288531138
-s54584
+t1288581658
+s54608
 
 N/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/TweetsGround.o
 t1288531137
@@ -1883,20 +1883,20 @@ t1288531137
 s11896
 
 N/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app
-t1288531138
+t1288581825
 s612
 
 N/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app.dSYM
-t1288531138
+t1288581825
 s102
 
 N/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app/CICRO
-t1288531138
-s293868
+t1288581825
+s294644
 
 N/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app/CICROViewController.nib
-t1288531134
-s4766
+t1288581508
+s4945
 
 N/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app/DefaultTweetDisplay.nib
 t1288308779
@@ -2035,7 +2035,7 @@ s1208
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies310223985#310223985#0(0"0(0#1#0"3343187568374212096#0"0#
+lSLF07#2@18"Check dependencies310274628#310274628#0(0"0(0#1#0"8615682336#0"0#
 
 CCompileC build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/Base64Transcoder.o /Users/whenurnotaround/Desktop/CICRO/Classes/OAuthConsumer/Crytpo/Base64Transcoder.c normal i386 c com.apple.compilers.gcc.4_2
 s309084508.970714
@@ -2132,8 +2132,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@71"Compile /Users/whenurnotaround/Desktop/CICRO/Classes/CICROAppDelegate.m309862759#309862759#0(0"0(0#0#63"/Users/whenurnotaround/Desktop/CICRO/Classes/CICROAppDelegate.m8685066656#2031"    cd /Users/whenurnotaround/Desktop/CICRO    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-generated-files.hmap -I/Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-own-target-headers.hmap -I/Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-all-target-headers.hmap -iquote /Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-project-headers.hmap -F/Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator -I/Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/libxml2 -I/Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources/i386 -I/Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources -include /var/folders/pX/pX8zyeLYHJ4HW+801bRceE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CICRO_Prefix-hhfizwrcftksowfgqxgajfbrvcqv/CICRO_Prefix.pch -c /Users/whenurnotaround/Desktop/CICRO/Classes/CICROAppDelegate.m -o /Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/CICROAppDelegate.o0#
 
 CCompileC build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/CICROAppDelegate.o /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/CICROAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s310223935.633761
-e310223935.743020
+s310274458.434800
+e310274458.527874
 r1
 xCompileC
 xbuild/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/CICROAppDelegate.o
@@ -2142,7 +2142,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@83"Compile /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/CICROAppDelegate.m310223935#310223935#0(0"0(0#0#75"/Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/CICROAppDelegate.m8764779776#2163"    cd /Users/whenurnotaround/Documents/WorkSpace/CICRO    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-generated-files.hmap -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-own-target-headers.hmap -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-all-target-headers.hmap -iquote /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-project-headers.hmap -F/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/libxml2 -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources/i386 -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources -include /var/folders/pX/pX8zyeLYHJ4HW+801bRceE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CICRO_Prefix-eiullopwelolafdeuuyrbgizgpgf/CICRO_Prefix.pch -c /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/CICROAppDelegate.m -o /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/CICROAppDelegate.o0#
+lSLF07#2@83"Compile /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/CICROAppDelegate.m310274458#310274458#0(0"0(0#0#75"/Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/CICROAppDelegate.m8616449056#2163"    cd /Users/whenurnotaround/Documents/WorkSpace/CICRO    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-generated-files.hmap -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-own-target-headers.hmap -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-all-target-headers.hmap -iquote /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-project-headers.hmap -F/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/libxml2 -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources/i386 -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources -include /var/folders/pX/pX8zyeLYHJ4HW+801bRceE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CICRO_Prefix-eiullopwelolafdeuuyrbgizgpgf/CICRO_Prefix.pch -c /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/CICROAppDelegate.m -o /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/CICROAppDelegate.o0#
 
 CCompileC build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/CICROViewController.o /Users/whenurnotaround/Desktop/CICRO/Classes/CICROViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s309865918.452614
@@ -2161,8 +2161,8 @@ o/Users/whenurnotaround/Desktop/CICRO/Classes/CICROViewController.m:114: warning
 lSLF07#2@74"Compile /Users/whenurnotaround/Desktop/CICRO/Classes/CICROViewController.m309865918#309865918#0(334"/Users/whenurnotaround/Desktop/CICRO/Classes/CICROViewController.m: In function '-[CICROViewController viewDidLoad]':/Users/whenurnotaround/Desktop/CICRO/Classes/CICROViewController.m:115: warning: unused variable 'password'/Users/whenurnotaround/Desktop/CICRO/Classes/CICROViewController.m:114: warning: unused variable 'username'2(22@26"Unused variable 'password'309865918#118#108#0(6@66"/Users/whenurnotaround/Desktop/CICRO/Classes/CICROViewController.m309864172#115#0#115#0#19"unused variable '*'0(22@26"Unused variable 'username'309865918#226#108#0(6@66"/Users/whenurnotaround/Desktop/CICRO/Classes/CICROViewController.m309864172#114#0#114#0#19"unused variable '*'0(0#0#66"/Users/whenurnotaround/Desktop/CICRO/Classes/CICROViewController.m8695059040#2037"    cd /Users/whenurnotaround/Desktop/CICRO    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-generated-files.hmap -I/Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-own-target-headers.hmap -I/Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-all-target-headers.hmap -iquote /Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-project-headers.hmap -F/Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator -I/Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/libxml2 -I/Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources/i386 -I/Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources -include /var/folders/pX/pX8zyeLYHJ4HW+801bRceE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CICRO_Prefix-hhfizwrcftksowfgqxgajfbrvcqv/CICRO_Prefix.pch -c /Users/whenurnotaround/Desktop/CICRO/Classes/CICROViewController.m -o /Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/CICROViewController.o0#
 
 CCompileC build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/CICROViewController.o /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/CICROViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s310223935.721580
-e310223935.917266
+s310274625.774972
+e310274625.897011
 r1
 xCompileC
 xbuild/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/CICROViewController.o
@@ -2171,7 +2171,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@86"Compile /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/CICROViewController.m310223935#310223935#0(0"0(0#0#78"/Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/CICROViewController.m8749146272#2169"    cd /Users/whenurnotaround/Documents/WorkSpace/CICRO    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-generated-files.hmap -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-own-target-headers.hmap -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-all-target-headers.hmap -iquote /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-project-headers.hmap -F/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/libxml2 -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources/i386 -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources -include /var/folders/pX/pX8zyeLYHJ4HW+801bRceE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CICRO_Prefix-eiullopwelolafdeuuyrbgizgpgf/CICRO_Prefix.pch -c /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/CICROViewController.m -o /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/CICROViewController.o0#
+lSLF07#2@86"Compile /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/CICROViewController.m310274625#310274625#0(0"0(0#0#78"/Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/CICROViewController.m8613308064#2169"    cd /Users/whenurnotaround/Documents/WorkSpace/CICRO    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-generated-files.hmap -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-own-target-headers.hmap -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-all-target-headers.hmap -iquote /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-project-headers.hmap -F/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/libxml2 -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources/i386 -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources -include /var/folders/pX/pX8zyeLYHJ4HW+801bRceE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CICRO_Prefix-eiullopwelolafdeuuyrbgizgpgf/CICRO_Prefix.pch -c /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/CICROViewController.m -o /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/CICROViewController.o0#
 
 CCompileC build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/InputTweetView.o /Users/whenurnotaround/Desktop/CICRO/Classes/InputTweetView.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s309859340.309180
@@ -2187,8 +2187,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@69"Compile /Users/whenurnotaround/Desktop/CICRO/Classes/InputTweetView.m309859340#309859340#0(0"0(0#0#61"/Users/whenurnotaround/Desktop/CICRO/Classes/InputTweetView.m8606328672#2027"    cd /Users/whenurnotaround/Desktop/CICRO    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-generated-files.hmap -I/Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-own-target-headers.hmap -I/Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-all-target-headers.hmap -iquote /Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-project-headers.hmap -F/Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator -I/Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/libxml2 -I/Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources/i386 -I/Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources -include /var/folders/pX/pX8zyeLYHJ4HW+801bRceE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CICRO_Prefix-hhfizwrcftksowfgqxgajfbrvcqv/CICRO_Prefix.pch -c /Users/whenurnotaround/Desktop/CICRO/Classes/InputTweetView.m -o /Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/InputTweetView.o0#
 
 CCompileC build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/InputTweetView.o /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/InputTweetView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s310223937.797788
-e310223937.886437
+s310273281.985951
+e310273282.154854
 r1
 xCompileC
 xbuild/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/InputTweetView.o
@@ -2197,7 +2197,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@81"Compile /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/InputTweetView.m310223937#310223937#0(0"0(0#0#73"/Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/InputTweetView.m8749613184#2159"    cd /Users/whenurnotaround/Documents/WorkSpace/CICRO    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-generated-files.hmap -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-own-target-headers.hmap -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-all-target-headers.hmap -iquote /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-project-headers.hmap -F/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/libxml2 -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources/i386 -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources -include /var/folders/pX/pX8zyeLYHJ4HW+801bRceE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CICRO_Prefix-eiullopwelolafdeuuyrbgizgpgf/CICRO_Prefix.pch -c /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/InputTweetView.m -o /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/InputTweetView.o0#
+lSLF07#2@81"Compile /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/InputTweetView.m310273281#310273282#0(0"0(0#0#73"/Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/InputTweetView.m8614284064#2159"    cd /Users/whenurnotaround/Documents/WorkSpace/CICRO    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-generated-files.hmap -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-own-target-headers.hmap -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-all-target-headers.hmap -iquote /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-project-headers.hmap -F/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/libxml2 -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources/i386 -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources -include /var/folders/pX/pX8zyeLYHJ4HW+801bRceE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CICRO_Prefix-eiullopwelolafdeuuyrbgizgpgf/CICRO_Prefix.pch -c /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/InputTweetView.m -o /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/InputTweetView.o0#
 
 CCompileC build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/Login.o /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/Login.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s310223938.107881
@@ -3076,8 +3076,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@73"Compile /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/Square.m310143179#310143179#0(0"0(0#0#65"/Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/Square.m8645276000#2143"    cd /Users/whenurnotaround/Documents/WorkSpace/CICRO    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-generated-files.hmap -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-own-target-headers.hmap -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-all-target-headers.hmap -iquote /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-project-headers.hmap -F/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/libxml2 -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources/i386 -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources -include /var/folders/pX/pX8zyeLYHJ4HW+801bRceE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CICRO_Prefix-eiullopwelolafdeuuyrbgizgpgf/CICRO_Prefix.pch -c /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/Square.m -o /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/Square.o0#
 
 CCompileC build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/Tweet.o /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/Tweet.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s310223937.983257
-e310223938.126340
+s310274458.531158
+e310274458.637961
 r1
 xCompileC
 xbuild/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/Tweet.o
@@ -3086,7 +3086,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@72"Compile /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/Tweet.m310223937#310223938#0(0"0(0#0#64"/Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/Tweet.m8687119648#2141"    cd /Users/whenurnotaround/Documents/WorkSpace/CICRO    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-generated-files.hmap -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-own-target-headers.hmap -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-all-target-headers.hmap -iquote /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-project-headers.hmap -F/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/libxml2 -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources/i386 -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources -include /var/folders/pX/pX8zyeLYHJ4HW+801bRceE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CICRO_Prefix-eiullopwelolafdeuuyrbgizgpgf/CICRO_Prefix.pch -c /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/Tweet.m -o /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/Tweet.o0#
+lSLF07#2@72"Compile /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/Tweet.m310274458#310274458#0(0"0(0#0#64"/Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/Tweet.m8615150752#2141"    cd /Users/whenurnotaround/Documents/WorkSpace/CICRO    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-generated-files.hmap -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-own-target-headers.hmap -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-all-target-headers.hmap -iquote /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/CICRO-project-headers.hmap -F/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/libxml2 -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources/i386 -I/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/DerivedSources -include /var/folders/pX/pX8zyeLYHJ4HW+801bRceE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CICRO_Prefix-eiullopwelolafdeuuyrbgizgpgf/CICRO_Prefix.pch -c /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/Tweet.m -o /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/Tweet.o0#
 
 CCompileC build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/TweetsGround.o /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/TweetsGround.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s310223937.886544
@@ -3240,12 +3240,12 @@ x/Users/whenurnotaround/Desktop/CICRO/MainWindow.xib
 lSLF07#2@25"CompileXIB MainWindow.xib309084506#309084507#0(0"0(0#0#51"/Users/whenurnotaround/Desktop/CICRO/MainWindow.xib8618669152#562"    cd /Users/whenurnotaround/Desktop/CICRO    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator/CICRO.app/MainWindow.nib /Users/whenurnotaround/Desktop/CICRO/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
 
 CCompileXIB /Users/whenurnotaround/Documents/WorkSpace/CICRO/CICROViewController.xib
-s310223933.656713
-e310223934.535398
+s310274307.650482
+e310274308.188302
 r1
 xCompileXIB
 x/Users/whenurnotaround/Documents/WorkSpace/CICRO/CICROViewController.xib
-lSLF07#2@34"CompileXIB CICROViewController.xib310223933#310223934#0(0"0(0#0#72"/Users/whenurnotaround/Documents/WorkSpace/CICRO/CICROViewController.xib8763889824#616"    cd /Users/whenurnotaround/Documents/WorkSpace/CICRO    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app/CICROViewController.nib /Users/whenurnotaround/Documents/WorkSpace/CICRO/CICROViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+lSLF07#2@34"CompileXIB CICROViewController.xib310274307#310274308#0(0"0(0#0#72"/Users/whenurnotaround/Documents/WorkSpace/CICRO/CICROViewController.xib8613365216#616"    cd /Users/whenurnotaround/Documents/WorkSpace/CICRO    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app/CICROViewController.nib /Users/whenurnotaround/Documents/WorkSpace/CICRO/CICROViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
 
 CCompileXIB /Users/whenurnotaround/Documents/WorkSpace/CICRO/Classes/Tweet.xib
 s310223934.245610
@@ -3374,13 +3374,13 @@ x/Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator/CICRO.app/CICR
 lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/CICRO.app.dSYM build/Debug-iphonesimulator/CICRO.app/CICRO309867856#309867856#0(0"0(0#0#80"/Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator/CICRO.app/CICRO8606381376#371"    cd /Users/whenurnotaround/Desktop/CICRO    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator/CICRO.app/CICRO -o /Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator/CICRO.app.dSYM0#
 
 CGenerateDSYMFile /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app.dSYM /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app/CICRO
-s310223938.223010
-e310223938.294644
+s310274625.956135
+e310274625.991792
 r1
 xGenerateDSYMFile
 x/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app.dSYM
 x/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app/CICRO
-lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/CICRO.app.dSYM build/Debug-iphonesimulator/CICRO.app/CICRO310223938#310223938#0(0"0(0#0#92"/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app/CICRO8753505056#407"    cd /Users/whenurnotaround/Documents/WorkSpace/CICRO    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app/CICRO -o /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app.dSYM0#
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/CICRO.app.dSYM build/Debug-iphonesimulator/CICRO.app/CICRO310274625#310274625#0(0"0(0#0#92"/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app/CICRO8618421024#407"    cd /Users/whenurnotaround/Documents/WorkSpace/CICRO    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app/CICRO -o /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app.dSYM0#
 
 CLd /Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator/CICRO.app/CICRO normal i386
 s309867855.941523
@@ -3393,14 +3393,14 @@ xi386
 lSLF07#2@85"Link /Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator/CICRO.app/CICRO309867855#309867856#0(0"0(0#0#0"8692414272#909"    cd /Users/whenurnotaround/Desktop/CICRO    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator -F/Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator -filelist /Users/whenurnotaround/Desktop/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/CICRO.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lxml2 -framework QuartzCore -o /Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator/CICRO.app/CICRO0#
 
 CLd /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app/CICRO normal i386
-s310223938.167239
-e310223938.222866
+s310274625.897102
+e310274625.956031
 r1
 xLd
 x/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app/CICRO
 xnormal
 xi386
-lSLF07#2@97"Link /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app/CICRO310223938#310223938#0(0"0(0#0#0"8764137952#969"    cd /Users/whenurnotaround/Documents/WorkSpace/CICRO    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator -F/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator -filelist /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/CICRO.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lxml2 -framework QuartzCore -o /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app/CICRO0#
+lSLF07#2@97"Link /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app/CICRO310274625#310274625#0(0"0(0#0#0"8618405920#969"    cd /Users/whenurnotaround/Documents/WorkSpace/CICRO    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator -F/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator -filelist /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/CICRO.build/Debug-iphonesimulator/CICRO.build/Objects-normal/i386/CICRO.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lxml2 -framework QuartzCore -o /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app/CICRO0#
 
 CProcessInfoPlistFile /Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator/CICRO.app/Info.plist CICRO-Info.plist
 s309084506.700160
@@ -3484,10 +3484,10 @@ x/Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator/CICRO.app
 lSLF07#2@80"Touch /Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator/CICRO.app309867856#309867856#0(0"0(0#0#0"8604783008#272"    cd /Users/whenurnotaround/Desktop/CICRO    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/whenurnotaround/Desktop/CICRO/build/Debug-iphonesimulator/CICRO.app0#
 
 CTouch /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app
-s310223938.294736
-e310223938.332867
+s310274625.991881
+e310274625.994270
 r1
 xTouch
 x/Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app
-lSLF07#2@92"Touch /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app310223938#310223938#0(0"0(0#0#0"8750901536#296"    cd /Users/whenurnotaround/Documents/WorkSpace/CICRO    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app0#
+lSLF07#2@92"Touch /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app310274625#310274625#0(0"0(0#0#0"8618362688#296"    cd /Users/whenurnotaround/Documents/WorkSpace/CICRO    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/whenurnotaround/Documents/WorkSpace/CICRO/build/Debug-iphonesimulator/CICRO.app0#
 

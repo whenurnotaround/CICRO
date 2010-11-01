@@ -37,6 +37,9 @@
 	NSArray *tweets;
 	NSMutableArray *tweetViews;
 	
+	//user
+	NSString *username;
+	
 	
 }
 
@@ -46,6 +49,8 @@
 
 @property(retain, nonatomic)NSArray *tweets;
 @property(retain, nonatomic)NSMutableArray *tweetViews;
+
+@property (retain, nonatomic)NSString *username;
 
 - (IBAction)Login;
 - (IBAction)tweetMsg;

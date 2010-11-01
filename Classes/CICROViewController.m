@@ -17,9 +17,9 @@
 #import "Login.h"
 
 @implementation CICROViewController
-
 @synthesize inputTweetView, tweetsGround, loginView;
 @synthesize tweets, tweetViews;
+@synthesize username;
 /*
 // The designated initializer. Override to perform setup that is required before the view is loaded.
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
@@ -45,7 +45,7 @@
 	NSString *consumerKey = @"NPskewpj5P5E3bdb9xdAg";
 	NSString *consumerSecret = @"glIVh7z0zzlk6jSmKtc6FyDFNDrH8qx4OLgGekpxU";
 	
-	NSString *username = loginView.usernameTextField.text;
+	username = loginView.usernameTextField.text;
     NSString *password = loginView.passwordTextField.text;
 	
 	NSLog(@"username = %@", username);
@@ -210,6 +210,13 @@
 	// generate bubbles from twitter
 	for (int row = 0; row < [self.tweets count]; row++) {
 		[self generateBubble:[self.tweets objectAtIndex:row]];
+		
+		//check tweet for the lastest tweet label
+		if ([[[[[self.tweets objectAtIndex:row] objectForKey:@"user"] objectForKey:@"name"] lowercaseString] isEqualToString:self.username]) {
+			
+			inputTweetView.lastestTweetLabel.text = [NSString stringWithFormat:@"%@ %@ ", @"Lastest:",[[self.tweets objectAtIndex:row] objectForKey:@"text"]];
+
+		}
 	}
 	
 	// recalculate alpha

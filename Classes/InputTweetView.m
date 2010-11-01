@@ -11,7 +11,7 @@
 
 @implementation InputTweetView
 
-@synthesize inputTweetTextView, tweetBtn;
+@synthesize inputTweetTextView, tweetBtn, lastestTweetLabel;
 @synthesize _status;
 
 - (id)initWithFrame:(CGRect)frame {

@@ -14,12 +14,14 @@
 	// Outlet Instances
 	IBOutlet UITextView *inputTweetTextView;
 	IBOutlet UIButton *tweetBtn;
+	IBOutlet UILabel *lastestTweetLabel;
 	
 	int _status;
 }
 
 @property (retain, nonatomic) IBOutlet UITextView *inputTweetTextView;
 @property (retain, nonatomic) IBOutlet UIButton *tweetBtn;
+@property (retain, nonatomic) IBOutlet UILabel *lastestTweetLabel;
 @property (assign) int _status;
 
 
